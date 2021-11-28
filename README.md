@@ -17,7 +17,7 @@ o	Gamer Motivations: Completion, Strategy - These end states are reflective of t
 
 
  
-3.	Gameplay Loops [follow this link for the gameplay loop diagram](https://i.imgur.com/iYmPJCq.png)
+3.	Gameplay Loops ([follow this link for the gameplay loop diagram](https://i.imgur.com/iYmPJCq.png))
 
  
 
